@@ -1,0 +1,359 @@
+.brands {
+  font-family: "Poppins", sans-serif;
+  height: 244px;
+  color: #f8f9fc;
+}
+
+.brands .brandlogos {
+  margin: 0 auto;
+  padding-top: 13%;
+  width: 996px;
+  height: 72px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.brands .brandlogos .brand {
+  margin-left: 4%;
+}
+
+.coldsection {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fc;
+  height: 650px;
+}
+
+.coldsection .coldwrapper {
+  text-align: center;
+  padding-top: 6%;
+}
+
+.coldsection .coldwrapper h2 {
+  margin-bottom: 2%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 135%;
+  letter-spacing: -0.02em;
+}
+
+.coldsection .coldwrapper h2 .ice {
+  color: #3e86f5;
+}
+
+.coldsection .coldwrapper p {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 150%;
+  color: #929191;
+}
+
+.coldsection .view {
+  margin-top: 10%;
+  margin-bottom: 2%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 135%;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.travels {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: "Poppins", sans-serif;
+}
+
+.travels .photo1 {
+  background-image: url(../Assets/Img/photo1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 480px;
+  height: 1024px;
+}
+
+.travels .photo1 .mount {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.35)), to(rgba(0, 0, 0, 0.35)));
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+}
+
+.travels .photo1 .mount h2 {
+  width: 738px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 108px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  position: absolute;
+  top: 35%;
+}
+
+.travels .photo2 {
+  background-image: url(../Assets/Img/photo5.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 480px;
+  height: 1024px;
+}
+
+.travels .photo2 .mount {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.35)), to(rgba(0, 0, 0, 0.35)));
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+}
+
+.travels .photo2 .mount h2 {
+  width: 738px;
+  margin-left: 0%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 108px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  position: absolute;
+  top: 35%;
+}
+
+.travels .photo3 {
+  background-image: url(../Assets/Img/photo2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 480px;
+  height: 1024px;
+  position: relative;
+}
+
+.travels .photo3 .mount {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.35)), to(rgba(0, 0, 0, 0.35)));
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+}
+
+.travels .photo3 .mount h2 {
+  width: 738px;
+  margin-left: 4%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 108px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  position: absolute;
+  top: 35%;
+}
+
+.relax {
+  width: 85%;
+  height: 1895px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  padding-top: 6%;
+}
+
+.relax h2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 135%;
+  color: #000000;
+  letter-spacing: -0.02em;
+  margin-bottom: 4%;
+}
+
+.relax .flexbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.relax .flexbox .flex1 .divv {
+  position: absolute;
+  left: 21%;
+}
+
+.relax .flexbox .flex1 .divv .box1 {
+  background-image: url(../Assets/Img/picture.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 484px;
+  height: 711px;
+  margin-bottom: 5%;
+}
+
+.relax .flexbox .flex1 .divv .box2 {
+  background-image: url(../Assets/Img/picture2.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 484px;
+  height: 711px;
+}
+
+.relax .flexbox .flexx {
+  position: absolute;
+  right: 9%;
+}
+
+.relax .flexbox .flexx .box3 {
+  background-image: url(../Assets/Img/photo6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 484px;
+  height: 711px;
+  border-radius: 20px;
+  margin-bottom: 5%;
+}
+
+.relax .flexbox .flexx .box3 .form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding-bottom: 15%;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(60.97%, rgba(0, 0, 0, 0.563442)), to(rgba(0, 0, 0, 0.65)));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.563442) 60.97%, rgba(0, 0, 0, 0.65) 100%);
+}
+
+.relax .flexbox .flexx .box3 .form .chalet {
+  width: 436px;
+}
+
+.relax .flexbox .flexx .box3 .form .chalet .winta {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.relax .flexbox .flexx .box3 .form .chalet .cambo {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  padding-bottom: 6%;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.relax .flexbox .flexx .box3 .form .chalet button {
+  width: 100%;
+  height: 64px;
+  text-align: center;
+  background-color: #3e86f5;
+  border: none;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 10px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.relax .flexbox .flexx .box4 {
+  background-image: url(../Assets/Img/picture3.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 484px;
+  height: 711px;
+}
+
+.snow {
+  font-family: "Poppins", sans-serif;
+  background-image: url(../Assets/Img/photo4.jpg);
+  height: 750px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.snow .passes {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7)));
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+}
+
+.snow .passes .pass {
+  width: 85%;
+  margin: 10% auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.snow .passes .pass p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 108px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+
+.snow .passes .pass button {
+  width: 285px;
+  height: 72px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #3e86f5;
+  border: none;
+  border-radius: 10px;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+.snow .passes .pass button:hover {
+  background-color: blue;
+}
+/*# sourceMappingURL=body.css.map */
